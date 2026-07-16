@@ -64,3 +64,23 @@
 // }
 // , 5000);
 // clearTimeout(clearedMessege);
+
+
+// // Task 3 ===========
+
+// // 1.
+
+
+// var items = [];
+// // a.
+// items.push("key");
+// // b.
+// console.log(items)
+// // c.
+// var  index = items.indexOf("key");
+// items[index] = "wrench";
+// console.log(items)
+
+// // d.
+// items.splice(0,1);
+// console.log(items)
